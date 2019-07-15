@@ -19,3 +19,7 @@ First we design and train the convnet model and then use the OpenCV to read imag
 ![First output](https://github.com/saitejamahadev/Digit_Recognisier/blob/master/Demo_2.JPG)
 
 ![second](https://github.com/saitejamahadev/Digit_Recognisier/blob/master/Demo_7.JPG)
+
+
+**Note :**
+Further preprocessing of input data is required for better prediction as model sometimes is confused between 4 and 7 .
