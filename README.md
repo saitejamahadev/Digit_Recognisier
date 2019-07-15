@@ -13,3 +13,9 @@ First we design and train the convnet model and then use the OpenCV to read imag
 
 **Depedencies**
 * Installing Anaconda Distribution will resolve all the dependencies.
+
+**Output Samples**
+
+![First output](https://github.com/saitejamahadev/Digit_Recognisier/blob/master/Demo_2.JPG)
+
+![second](https://github.com/saitejamahadev/Digit_Recognisier/blob/master/Demo_7.JPG)
